@@ -90,8 +90,8 @@ DB_NAME = nome-do-banco-de-dados
 [Heroku](https://backend-amaro-carol.herokuapp.com/products)
 
 ## Testeunitário:
-
-<img src ="test.jpg">
+ 
+![f43541b4-8cd0-42ac-a1e9-c3a264a6900e](https://user-images.githubusercontent.com/101641921/189415841-4fa2110e-72e8-4b4c-bfea-87004634af9b.jpg)
 
 ## Stack utilizada
 
